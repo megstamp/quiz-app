@@ -1,0 +1,105 @@
+[
+    {
+        "id": "1",
+        "question": "2 + 2 = ",
+        "options": [
+            {
+                "answer": "It will be 6",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "It could be 3",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "Maybe 2",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "4",
+                "isCorrect": true
+            }
+        ]
+    },
+
+    {
+        "id": "2",
+        "question": "What is the capital of Maryland",
+        "options": [
+            {
+                "answer": "Baltimore",
+                "isCorrect": false
+            },
+
+            {
+                "answer" : "Frederick",
+                "isCorrect": false
+            },
+
+            {   
+                "answer": "Annapolis",
+                "isCorrect": true
+            },
+
+            {   
+                "answer": "New York",
+                "isCorrect": false
+            }
+        ]
+    },
+
+    {   
+        "id": "3",
+        "question": "Which one is an article of clothing?",
+        "options": [
+            {
+                "answer": "vacuum",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "pen",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "shirt",
+                "isCorrect": true
+            },
+
+            {
+                "answer": "mouse",
+                "isCorrect": false
+            }
+        ]
+    },
+    
+    {
+        "id": "4",
+        "question": "Which of the following is sweet?",
+        "options": [
+            {
+                "answer": "ice cream",
+                "isCorrect": true
+            },
+
+            {
+                "answer": "pretzels",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "socks",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "guacamole",
+                "isCorrect": false
+            }
+        ]
+    }
+]
